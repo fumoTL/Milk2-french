@@ -1,58 +1,42 @@
 ![Github](https://github.com/fumobern/Milk2-french/assets/174740931/4c18134b-b05b-4259-9ea1-b5b525d66c0c)
- # _<p align="center"> Patch français non officiel - Milk outside a bag of milk outside a bag of milk </p>_ #
+# _<p align="center"> Patch français non officiel - Milk outside a bag of milk outside a bag of milk </p>_ #
 
-__Traduction complète du jeu Milk outside a bag of milk outside a bag of milk en français, tirée de la traduction anglaise de [Aesthetic Dialectic](https://x.com/adtl48).__
+__Traduction française complète du jeu, basée sur la version anglaise de [Aesthetic Dialectic](https://x.com/adtl48).__
 
 ---
-# Installation
-## Automatique *(Windows uniquement)*
+## Installation
 
-**1. [Télécharger le programme d'installation](https://github.com/fumobern/Milk2-french/releases/tag/v1.0.1)**
+### Automatique *(Windows uniquement)*
+**1. [Télécharger l'installateur](https://github.com/fumobern/Milk2-french/releases/tag/v1.0.1)**
 
-**2. Démarrer le programme et y inscrire le lien conduisant au dossier "game" du jeu**\
-*(Si votre jeu a été installé dans le chemin par défaut de Steam, passez directement à la suite)*
+**2.** Lancez le programme et indiquez le chemin vers le dossier `game` du jeu *(ignorez cette étape si le jeu est installé dans le répertoire Steam par défaut)*.
 
-**3. Cliquer sur Installer**
+**3.** Cliquez sur **Installer**.
 
-Le dossier "game" contiendra dorénavant:
-
- - Tous les fichiers nécessaires au patch
- - Un programme de désinstallation
-
-## Manuel
-
+### Manuelle
 **1. [Télécharger le patch](https://github.com/fumobern/Milk2-french/releases/tag/v1.0.1)**
 
-**2. Ouvrir le dossier "game" dans les fichiers du jeu.**
+**2.** Ouvrez le dossier `game` du jeu :
+   * *Depuis Steam :* `Clic droit sur le jeu -> Gérer -> Parcourir les fichiers locaux -> dossier "game"`
+   * *Chemin par défaut (Windows) :* `C:\Program Files (x86)\Steam\steamapps\common\Milk outside a bag of milk outside a bag of milk\game`
 
-- Si votre jeu a été installé via Steam, vous pouvez y accéder des deux manières suivantes: 
+**3.** Copiez tous les fichiers du patch à l'intérieur de ce dossier `game`.
 
-  - Via votre bibliothèque Steam: `Clic droit sur le jeu -> Gérer -> Parcourir les fichiers locaux -> dossier "game"`
+## Désinstallation
 
-  - Via l'explorateur de fichiers (Windows uniquement): accéder à `C:\Program Files (x86)\Steam\steamapps\common\Milk outside a bag of milk outside a bag of milk\game` _(chemin d'installation par défaut de Steam)_
+Exécutez simplement le programme `supprimer_patch.exe` situé dans le dossier `game` du jeu.
 
-**3. Y glisser tous les fichiers inclus dans le dossier du patch.**
+## Remerciements
 
----
-# Désinstallation
+* **[Nikita Kryukov](https://x.com/nkt_krkv)** - Créateur du jeu
+* **[Aesthetic Dialectic](https://x.com/adtl48)** - Traduction anglaise
 
-Pour désinstaller le patch, il suffit d'exécuter le programme de désinstallation (supprimer_patch.exe) dans le dossier "game" du jeu.
+## Réseau
 
----
-# Remerciements
+Twitter / X: **https://x.com/fumoTL**
 
-[Nikita Kryukov](https://x.com/nkt_krkv) **- créateur du jeu**
+## Copyright & Intellectual Property
 
-[Aesthetic Dialectic](https://x.com/adtl48) **- traduction anglaise**
+The original game creator, [Nikita Kryukov](https://x.com/nkt_krkv), holds **full rights** to this translation and its associated files (including the right to officially integrate, modify, remove, or freely reuse them).
 
----
-# Contact
-
-**Twitter/X:** https://x.com/fumoTL  
-  
-**Email:** ptitcomptetrkl@gmail.com
-
-_**Si vous avez des suggestions, questions ou autre, n'hésitez pas à me contacter.**_
-
----
-**PayPal:** https://www.paypal.com/paypalme/fumoincognito
+For any inquiries, requests, or official integration plans, he may contact me directly at: **ptitcomptetrkl@gmail.com**.
